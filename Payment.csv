@@ -1,0 +1,7 @@
+"PAYMENTID","PAYMENTTYPE","CUSTOMERID"
+1,"Visa                                              ",1
+2,"Amex                                              ",2
+3,"MasterCard                                        ",3
+4,"Switch                                            ",4
+5,"Venmo                                             ",5
+6,"Visa                                              ",5
